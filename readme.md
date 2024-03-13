@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibrsec/countries/">
-    <img src="./img/logo.png" alt="Logo" width="200" >
+    <img src="./img/allFlags.png" alt="Logo" width="200" >
   </a>
 
   <h3 align="center">Countries App</h3>
