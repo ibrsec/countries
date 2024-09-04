@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/countries"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/countries/">View Demo</a>
+    <a href="https://countries-pied-nine.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/countries/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![countries](./img/project.png)](https://ibrsec.github.io/countries/)
+[![countries](./img/project.png)](https://countries-pied-nine.vercel.app/)
 
 
 
